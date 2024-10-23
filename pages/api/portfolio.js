@@ -53,14 +53,14 @@ const portfolio = [
         url: "https://ucnnews.live/",
         image: "projects/ucn.png",
         projectDetail: "Developed the responsive and interactive frontend user interface for the UCN News website, allowing users to easily navigate and consume news content across various categories like politics, sports, entertainment, and technology. Focused on delivering a seamless user experience with clean design and intuitive navigation.",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: "Bootstrap 5"
-            },
-        ]
+        // technologiesUsed: [
+        //     {
+        //         tech: "ReactJS"
+        //     },
+        //     {
+        //         tech: "Bootstrap 5"
+        //     },
+        // ]
     },
     {
         id: 0,
@@ -89,20 +89,20 @@ const portfolio = [
         url: "https://cognisoftllc.vercel.app/",
         image: "projects/congisoftllc.png",
         projectDetail: "The Cognisoftllc website is designed to provide users with easy access to company web portal, educational content, and information about the Cognisoftllc's abput and initiatives. The website offers an intuitive, user-friendly interface for exploring.",
-        technologiesUsed: [
-            {
-                tech: "Javascript"
-            },
-            {
-                tech: "Tailwind CSS"
-            },
-            {
-                tech: "Animations"
-            },
-            {
-                tech: "React JS"
-            },
-        ]
+        // technologiesUsed: [
+        //     {
+        //         tech: "Javascript"
+        //     },
+        //     {
+        //         tech: "Tailwind CSS"
+        //     },
+        //     {
+        //         tech: "Animations"
+        //     },
+        //     {
+        //         tech: "React JS"
+        //     },
+        // ]
     }
 ]
 export default function handler(req, res) {
