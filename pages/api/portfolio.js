@@ -28,7 +28,7 @@ const portfolio = [
         projectName: "VinzSeed",
         url: "#",
         image: "projects/vinzseed.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
+        projectDetail: "The VinzSeeds architecture is structured to provide a seamless user experience, robust functionality, and scalable performance. The architecture follows a MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring smooth communication between the client and server.",
         technologiesUsed: [
             {
                 tech: "ReactJS"
